@@ -39,7 +39,7 @@ openat: yes
 linkat: yes
 pipe2: yes
 ppoll: yes
-revoke: no
+revoke: yes
 sendfile: yes
 setgroups: yes
 settimeofday: yes
