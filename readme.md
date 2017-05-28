@@ -7,12 +7,8 @@ Void doesn't distribute i686-musl packages anyway, so that's no big deal.
 
 ## Versioning
 
-The version number of the bundle stays in sync with the
-version number and revision of the Void skalibs package, to
-unforeseen complications.
-E.G., the first version of this bundle will be 2.5.1.1r2.
-skalibs is at version 2.5.1.1, and revision 2 of the Void package
-will be the first to support cross compilation.
+The version number of this repo needs to stay in sync with the version
+number of skalibs.
 
 ## Process for Constructing Sysdeps
 
