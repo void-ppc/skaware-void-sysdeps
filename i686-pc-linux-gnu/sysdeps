@@ -35,6 +35,7 @@ ipv6: yes
 malloc0: yes
 msgdontwait: yes
 nbwaitall: yes
+odirectory: yes
 openat: yes
 linkat: yes
 pipe2: yes
