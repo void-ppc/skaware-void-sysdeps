@@ -25,6 +25,7 @@ accept4: yes
 ancilautoclose: no
 cmsgcloexec: yes
 devurandom: yes
+dirfd: yes
 eproto: yes
 eventfd: yes
 flock: yes
@@ -38,6 +39,7 @@ nbwaitall: yes
 odirectory: yes
 openat: yes
 linkat: yes
+memmem: yes
 pipe2: yes
 ppoll: yes
 revoke: yes
