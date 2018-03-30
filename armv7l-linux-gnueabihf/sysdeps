@@ -59,3 +59,4 @@ getrandom: yes
 itimer: yes
 namespaces: yes
 nsgetparent: no
+explicit_bzero: yes
