@@ -21,6 +21,7 @@ sizeofdev: 8
 signeddev: no
 sizeofino: 8
 signedino: no
+nullispointer: yes
 accept4: yes
 ancilautoclose: no
 cmsgcloexec: yes
